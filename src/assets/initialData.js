@@ -1,0 +1,33 @@
+export const initialData = [{
+    "id": 4,
+    "title": "Debounce Function in React - JavaScript Job Interview question",
+    "description": "In this video, I have explained about the debounce function in JavaScript. This is a common question interviewers ask at Job Interviews. If you watch this video carefully, you will understand what is debounce and how to handle it with custom debounce function.",
+    "author": "Learn with Sumit",
+    "date": "Jan 06, 2022",
+    "duration": "10:12",
+    "views": "2.1k",
+    "link": "https://www.youtube-nocookie.com/embed/dD9O8DnIBj4",
+    "thumbnail": "https://i3.ytimg.com/vi/dD9O8DnIBj4/maxresdefault.jpg"
+  },
+  {
+    "id": 6,
+    "title": "React Router DOM v10 EnglishTutorial - Breaking Changes - React Router 6 vs 5",
+    "description": "In this React Router DOM v6 Bangla tutorial, you will learn how to install react router dom 6, what are the breaking changes in react router 6, difference between react router 6 vs 5, how to upgrade from react router v5 to react router v6. ",
+    "author": "Learn with Sumit",
+    "date": "Nov 08, 2021",
+    "duration": "10:12",
+    "views": "2.1k",
+    "link": "https://www.youtube-nocookie.com/embed/34tjWL9wi4g",
+    "thumbnail": "https://i3.ytimg.com/vi/34tjWL9wi4g/maxresdefault.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Tailwind CSS Tutorial Bangla - Introduction to Tailwind CSS",
+    "description": "Tailwind is a utility-first CSS framework to rapidly build modern websites without ever leaving your HTML. In this Tailwind CSS tutorial, I have given a short introduction and overview of Tailwind CSS in Bangla language. Also, I have explained, why Tailwind vs Bootstrap debate should be stopped as both are useful in their own ways.",
+    "author": "Learn with Sumit",
+    "date": "Oct 15, 2021",
+    "duration": "10:12",
+    "views": "2.1k",
+    "link": "https://www.youtube-nocookie.com/embed/smDa6hoxLKI",
+    "thumbnail": "https://i3.ytimg.com/vi/smDa6hoxLKI/maxresdefault.jpg"
+  }]
